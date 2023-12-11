@@ -8,9 +8,6 @@
         <script src="scripts/login.js"> </script>
         <script src="scripts/logout.js"> </script>
         <script src="scripts/adduser.js"> </script>
-        <!-- <script src= "scripts/newissue.js"> </script> -->
-<!--         <script src= "scripts/singleissue.js"> </script>
-        <script src="scripts/issueupdate.js"> </script> -->
         <script src="scripts/home.js"> </script>
         <title>main</title>
     </head>
